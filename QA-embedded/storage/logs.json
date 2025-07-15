@@ -1,0 +1,167 @@
+[
+  {
+    "timestamp": "2025-07-14T21:30:06.506537",
+    "engine_on": true,
+    "speed": 80,
+    "odometer": 15000.0,
+    "brake_applied": true,
+    "gps_location": [
+      42.88,
+      -78.87
+    ],
+    "engine_temp": 190,
+    "idle_time": 0,
+    "driver_id": "DR123"
+  },
+  {
+    "timestamp": "2025-07-14T21:35:06.506537",
+    "engine_on": true,
+    "speed": 49,
+    "odometer": 15002.3,
+    "brake_applied": false,
+    "gps_location": [
+      42.881,
+      -78.869
+    ],
+    "engine_temp": 198,
+    "idle_time": 0,
+    "driver_id": "DR123"
+  },
+  {
+    "timestamp": "2025-07-14T21:40:06.506537",
+    "engine_on": true,
+    "speed": 78,
+    "odometer": 15004.6,
+    "brake_applied": true,
+    "gps_location": [
+      42.882000000000005,
+      -78.86800000000001
+    ],
+    "engine_temp": 216,
+    "idle_time": 0,
+    "driver_id": "DR123"
+  },
+  {
+    "timestamp": "2025-07-14T21:45:06.506537",
+    "engine_on": false,
+    "speed": 43,
+    "odometer": 15006.9,
+    "brake_applied": true,
+    "gps_location": null,
+    "engine_temp": 212,
+    "idle_time": 0,
+    "driver_id": "DR123"
+  },
+  {
+    "timestamp": "2025-07-14T21:50:06.506537",
+    "engine_on": true,
+    "speed": 73,
+    "odometer": 15009.2,
+    "brake_applied": false,
+    "gps_location": [
+      42.884,
+      -78.866
+    ],
+    "engine_temp": 203,
+    "idle_time": 0,
+    "driver_id": "DR123"
+  },
+  {
+    "timestamp": "2025-07-14T21:55:06.506537",
+    "engine_on": true,
+    "speed": 47,
+    "odometer": 15011.5,
+    "brake_applied": true,
+    "gps_location": [
+      42.885000000000005,
+      -78.86500000000001
+    ],
+    "engine_temp": 226,
+    "idle_time": 0,
+    "driver_id": "DR123"
+  },
+  {
+    "timestamp": "2025-07-14T22:00:06.506537",
+    "engine_on": true,
+    "speed": 0,
+    "odometer": 15013.8,
+    "brake_applied": false,
+    "gps_location": [
+      42.886,
+      -78.864
+    ],
+    "engine_temp": 193,
+    "idle_time": 900,
+    "driver_id": "DR123"
+  },
+  {
+    "timestamp": "2025-07-14T22:05:06.506537",
+    "engine_on": true,
+    "speed": 0,
+    "odometer": 15016.1,
+    "brake_applied": false,
+    "gps_location": [
+      42.887,
+      -78.863
+    ],
+    "engine_temp": 221,
+    "idle_time": 900,
+    "driver_id": "DR123"
+  },
+  {
+    "timestamp": "2025-07-14T22:10:06.506537",
+    "engine_on": true,
+    "speed": 74,
+    "odometer": 15018.4,
+    "brake_applied": false,
+    "gps_location": [
+      42.888000000000005,
+      -78.86200000000001
+    ],
+    "engine_temp": 193,
+    "idle_time": 0,
+    "driver_id": "DR123"
+  },
+  {
+    "timestamp": "2025-07-14T22:15:06.506537",
+    "engine_on": true,
+    "speed": 41,
+    "odometer": 15020.7,
+    "brake_applied": false,
+    "gps_location": [
+      42.889,
+      -78.861
+    ],
+    "engine_temp": 221,
+    "idle_time": 0,
+    "driver_id": "DR123"
+  },
+  {
+    "timestamp": "2025-07-14T22:20:06.506537",
+    "engine_on": false,
+    "speed": 53,
+    "odometer": 15023.0,
+    "brake_applied": false,
+    "gps_location": [
+      42.89,
+      -78.86
+    ],
+    "engine_temp": 219,
+    "idle_time": 0,
+    "driver_id": "DR123"
+  },
+  {
+    "timestamp": "2025-07-14T22:25:06.506537",
+    "engine_on": true,
+    "speed": 40,
+    "odometer": 15025.3,
+    "brake_applied": true,
+    "gps_location": [
+      42.891000000000005,
+      -78.85900000000001
+    ],
+    "engine_temp": 228,
+    "idle_time": 0,
+    "driver_id": "DR123"
+  }
+]
